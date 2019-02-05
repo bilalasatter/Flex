@@ -1,0 +1,41 @@
+.A{
+    display: flex;
+    flex-wrap: wrap;
+    width: 45%;
+    height: 55%;
+    
+    justify-content: center;       
+}
+/*  
+  .B{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;  
+ }
+.C{
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+} */
+.ab{
+    width: 100px;
+    height: px;
+    margin: 4px;
+    background-color: blue;
+
+}
+.ba{
+    width: 100px;
+    height: px;
+    margin: 4px; 
+    background-color: green;  
+}
+.ca{
+    width: 100px;
+    height: px;
+    margin: 4px;
+    background-color: black;
+}
+
+
+
